@@ -3,7 +3,7 @@
     padding: 0;
 }
 .body {
-	background: url("../images/index.jpg") no-repeat;
+	background: url("/images/index.jpeg") no-repeat;
 	background:fixed;
 }
 .header {
