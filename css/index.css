@@ -6,10 +6,7 @@
 	background: url("/images/index.jpeg") no-repeat;
 	background:fixed;
 }
-.header {
-	margin: 0 
-}
-.nav ul {
+.header nav ul li{
 	margin-top: 0;
 	padding: 50px;
 	float: left;
